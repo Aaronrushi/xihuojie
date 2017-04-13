@@ -1,0 +1,139 @@
+
+.fullslide{
+	margin-top: 1px;
+	background-color: #CCE1F3;
+	
+	
+
+
+}
+.slide-content{
+	height: 299px;
+	
+	background: url(../img/3.jpg) center center no-repeat;
+}
+.center-box{
+	width: 1200px;
+	margin:0 auto;
+}
+.de1{
+	width: 570px;
+	padding:15px 20px 15px 10px;
+}
+.de1 p{
+	width: 570px;
+	height: 255px;
+
+
+}
+.de2{
+	width: 570px;
+	padding:70px 10px 0 20px;
+}
+.de2 .de2-info1{
+	font-family: Arial, 微软雅黑, 宋体, sans-serif;
+    font-size: 25px;
+    line-height: 25px;
+}
+.de2 .de2-info2{
+	color: rgb(153, 153, 153);
+	font-size: 15px;
+    line-height: 28px;
+    font-family: Arial, 微软雅黑, 宋体, sans-serif;
+
+}
+.cent2{
+	border-bottom: 1px dotted #ccc;
+	border-top:1px dotted #ccc;
+}
+.cent2-1{
+	width: 600px;
+
+}
+.cent2-1{
+	width: 600px;
+
+}
+.cent2-1 .cent2-1-cont{
+	margin:5px 0;
+}
+.cent2-1 .cent2-1-cont .info1{
+	font-family: Arial, 微软雅黑, 宋体, sans-serif; 
+	font-size: 25px; 
+	line-height: 25px;
+}
+.cent2-1 .cent2-1-cont .info2{
+	margin: 0px; 
+	padding: 0px; 
+	color: rgb(153, 153, 153); 
+	font-size: 15px; 
+	line-height: 28px; 
+	font-family: Arial, 微软雅黑, 宋体, sans-serif;
+}
+.cent3{
+	border-bottom: 1px dotted #ccc;
+}
+.cent3 .cent3-1{
+	width: 600px;
+}
+.cent3 .cent3-1 p{
+	width: 570px;
+	margin: 0 auto;
+	padding:5px 20px 5px 10px;
+
+}
+.cent3 .cent3-1 p img{
+	width: 558px;
+	height: 334px;
+
+}
+.cent3 .cent3-2{
+	width: 570px;
+	padding: 70px 10px 0 20px;
+
+}
+.cent3 .cent3-2 .info1{
+	font-size: 11pt;
+}
+.cent3 .cent3-2 .info1 span{
+	
+	font-size: 25px; 
+	line-height: 25px;
+	font-family: Arial, 微软雅黑, 宋体, sans-serif; 
+}
+.cent3 .cent3-2 .info2{
+	color: rgb(153, 153, 153); 
+	font-size: 15px;
+	line-height: 28px; 
+	font-family: Arial, 微软雅黑, 宋体, sans-serif;
+}
+.cent4 a{
+	text-decoration: none;
+
+}
+.cent4 .tg{
+	
+	height: 28px;
+    line-height: 28px;
+    color: #a2c101;
+    font:bold 16px/37px "Microsoft YaHei";
+    padding:3px 10px 0 0;
+}
+.cent4 .yx,.cent4 .zdy{
+	color: #444;
+	padding:3px 10px 0 0;
+	height: 28px;
+	min-height: 28px;
+	font:bold 16px/37px "Microsoft YaHei";
+}
+.cent5{
+	width: 1025px;
+}
+.cent5 li{
+	float: left;
+	width: 185px;
+	margin-right: 10px;
+}
+
+
+
